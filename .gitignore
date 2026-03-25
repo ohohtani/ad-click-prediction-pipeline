@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.parquet
+*.cbm
+*.pt
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
+reports/*
+!reports/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
